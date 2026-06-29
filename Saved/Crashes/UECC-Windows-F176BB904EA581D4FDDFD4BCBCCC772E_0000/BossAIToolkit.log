@@ -1,0 +1,1401 @@
+﻿Log file open, 01/31/23 22:24:22
+EditorErrors: Warning: Click to open file Found a deprecated ini section name in ../../../../Projects/BossAIToolkit/Config/DefaultGame.ini. Search for [IniKeyBlacklist] and replace with [IniKeyDenylist]
+LogConfig: Warning: Found a deprecated ini section name in ../../../../Projects/BossAIToolkit/Config/DefaultGame.ini. Search for [IniKeyBlacklist] and replace with [IniKeyDenylist]
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Found config from plugin[Interchange] Game
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GLTFImporter
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Iris
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.83.1
+LogInit:  - built for Windows
+LogInit:  - supports SSL with OpenSSL/1.1.1n
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.12
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.1-CL-23058290
+LogInit: Engine Version: 5.1.0-23058290+++UE5+Release-5.1
+LogInit: Compatible Engine Version: 5.1.0-23058290+++UE5+Release-5.1
+LogInit: Net CL: 23058290
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1516] (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Nov  9 2022 18:31:23
+LogInit: Compiled with Visual C++: 19.29.30146.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.1
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE_5.1/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 80
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 4
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 88
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[r.VSync:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.VerifyGCObjectNames:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Set CVar [[gc.PendingKillEnabled:1]]
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.31-22.24.23:367][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.SpatialFilter:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.Velocity.Extrapolation:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: CVar [[r.TSR.Velocity.HoleFill:1]] deferred - dummy variable created
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:70.711]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.DetailMode:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.31-22.24.23:368][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.31-22.24.23:369][  0]LogConfig: CVar [[fx.Niagara.QualityLevel:3]] deferred - dummy variable created
+[2023.01.31-22.24.23:369][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.31-22.24.23:369][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.31-22.24.23:369][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2023.01.31-22.24.23:378][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.31-22.24.23:378][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.31-22.24.23:465][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_2, shader model 6.6)
+[2023.01.31-22.24.23:465][  0]LogD3D12RHI: Adapter has 10067MB of dedicated video memory, 0MB of dedicated system memory, and 16342MB of shared system memory, 1 output[s]
+[2023.01.31-22.24.23:472][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.31-22.24.23:472][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16342MB of shared system memory, 0 output[s]
+[2023.01.31-22.24.23:472][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.31-22.24.23:473][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.31-22.24.23:473][  0]LogHAL: Display: Platform has ~ 32 GB [34272899072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.31-22.24.23:473][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.31-22.24.23:473][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.31-22.24.23:473][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.31-22.24.23:473][  0]LogConfig: Set CVar [[r.DumpShaderDebugInfo:2]]
+[2023.01.31-22.24.23:473][  0]LogConfig: Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.31-22.24.23:473][  0]LogConfig: Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.31-22.24.23:473][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.31-22.24.23:473][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4/Projects/BossAIToolkit/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.31-22.24.23:473][  0]LogInit: Computer: TURAHOK-PC
+[2023.01.31-22.24.23:473][  0]LogInit: User: jwyue
+[2023.01.31-22.24.23:473][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.31-22.24.23:473][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.31-22.24.23:473][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.01.31-22.24.23:473][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.31-22.24.23:473][  0]LogMemory: Process Physical Memory: 287.89 MB used, 297.55 MB peak
+[2023.01.31-22.24.23:473][  0]LogMemory: Process Virtual Memory: 285.84 MB used, 285.84 MB peak
+[2023.01.31-22.24.23:473][  0]LogMemory: Physical Memory: 14776.73 MB used,  17908.45 MB free, 32685.18 MB total
+[2023.01.31-22.24.23:473][  0]LogMemory: Virtual Memory: 23835.75 MB used,  13969.43 MB free, 37805.18 MB total
+[2023.01.31-22.24.23:473][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.31-22.24.23:477][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.31-22.24.23:487][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.31-22.24.23:487][  0]LogInit: Using OS detected language (en-US).
+[2023.01.31-22.24.23:487][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.31-22.24.23:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.31-22.24.23:631][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.31-22.24.23:639][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.31-22.24.23:639][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.31-22.24.23:639][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.31-22.24.23:639][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.01.31-22.24.23:639][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.31-22.24.23:647][  0]LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+[2023.01.31-22.24.23:647][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.31-22.24.23:764][  0]LogD3D12RHI: Display: Creating D3D12 RHI with Max Feature Level SM5
+[2023.01.31-22.24.23:764][  0]LogWindows: Attached monitors:
+[2023.01.31-22.24.23:764][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.31-22.24.23:764][  0]LogWindows: Found 1 attached monitors.
+[2023.01.31-22.24.23:764][  0]LogWindows: Gathering driver information using Windows Setup API
+[2023.01.31-22.24.23:764][  0]LogRHI: RHI Adapter Info:
+[2023.01.31-22.24.23:764][  0]LogRHI:             Name: NVIDIA GeForce RTX 3080
+[2023.01.31-22.24.23:764][  0]LogRHI:   Driver Version: 528.24 (internal:31.0.15.2824, unified:528.24)
+[2023.01.31-22.24.23:764][  0]LogRHI:      Driver Date: 1-15-2023
+[2023.01.31-22.24.23:764][  0]LogD3D12RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.31-22.24.23:764][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.31-22.24.23:766][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.31-22.24.23:766][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device8 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device9 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: ID3D12Device10 is supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: Bindless resources are supported
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 and bindless resources are supported.
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.31-22.24.23:818][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.31-22.24.23:844][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (3D)
+[2023.01.31-22.24.23:844][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Copy)
+[2023.01.31-22.24.23:845][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Compute)
+[2023.01.31-22.24.23:862][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.31-22.24.23:862][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.31-22.24.23:863][  0]LogRHI: Texture pool is 5858 MB (70% of 8369 MB)
+[2023.01.31-22.24.23:863][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.31-22.24.23:863][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.31-22.24.23:880][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyReport_0.log" -log="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyLog_0.log" -project="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject"  -platform=all'
+[2023.01.31-22.24.23:880][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE4/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyReport_0.log" -log="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyLog_0.log" -project="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject"  -platform=all" ]
+[2023.01.31-22.24.23:909][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2023.01.31-22.24.23:909][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2023.01.31-22.24.23:909][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2023.01.31-22.24.23:909][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2023.01.31-22.24.23:909][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2023.01.31-22.24.23:909][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.8
+[2023.01.31-22.24.23:909][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.31-22.24.23:909][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2023.01.31-22.24.23:910][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2023.01.31-22.24.23:911][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2023.01.31-22.24.23:912][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.31-22.24.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.31-22.24.23:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.31-22.24.23:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.31-22.24.23:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.31-22.24.23:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.31-22.24.23:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.31-22.24.23:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.31-22.24.23:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.31-22.24.23:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.31-22.24.23:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.31-22.24.23:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.31-22.24.23:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.31-22.24.23:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.31-22.24.23:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.31-22.24.23:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.31-22.24.23:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.31-22.24.23:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.31-22.24.23:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.31-22.24.23:953][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.31-22.24.23:954][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.31-22.24.23:956][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.31-22.24.23:956][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.31-22.24.23:956][  0]LogTargetPlatformManager:   PCM
+[2023.01.31-22.24.23:959][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.31-22.24.23:959][  0]LogTargetPlatformManager:   BINKA
+[2023.01.31-22.24.23:964][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.31-22.24.23:964][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.31-22.24.23:964][  0]LogTargetPlatformManager:   OGG
+[2023.01.31-22.24.23:967][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.31-22.24.23:967][  0]LogTargetPlatformManager:   OPUS
+[2023.01.31-22.24.24:000][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.31-22.24.24:006][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.31-22.24.24:013][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.31-22.24.24:013][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2023.01.31-22.24.24:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../Projects/BossAIToolkit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.31-22.24.24:015][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.31-22.24.24:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../Projects/BossAIToolkit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.31-22.24.24:015][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.31-22.24.24:032][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1433 MiB)
+[2023.01.31-22.24.24:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.31-22.24.24:032][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.31-22.24.24:039][  0]LogDerivedDataCache: Speed tests for C:/Users/jwyue/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.31-22.24.24:039][  0]LogDerivedDataCache: Display: Performance to C:/Users/jwyue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=885.08MBs, RandomWriteSpeed=182.94MBs. Assigned SpeedClass 'Local'
+[2023.01.31-22.24.24:039][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jwyue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.31-22.24.24:039][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.31-22.24.24:039][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.31-22.24.24:039][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2023.01.31-22.24.24:039][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.31-22.24.24:040][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../Projects/BossAIToolkit/Intermediate/Shaders/WorkingDirectory/24356/).
+[2023.01.31-22.24.24:040][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jwyue/AppData/Local/Temp/UnrealShaderWorkingDir/B82F4208449576E7BA6C9393D8FB7606/'.
+[2023.01.31-22.24.24:040][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.31-22.24.24:040][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.31-22.24.24:635][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.31-22.24.24:882][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.31-22.24.24:883][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.31-22.24.24:898][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: --- StereoAspects begin ---
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: Platform=PCD3D_SM5 (0)
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bInstancedStereo = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobilePlatform = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobilePostprocessing = 1
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobileMultiView = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMultiViewportCapable = 1
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bInstancedStereoNative = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: ---
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobileMultiViewCoreSupport = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobileMultiViewNative = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobileMultiViewFallback = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: ---
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bInstancedMultiViewportEnabled = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bInstancedStereoEnabled = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: bMobileMultiViewEnabled = 0
+[2023.01.31-22.24.25:255][  0]LogInit: FStereoShaderAspects: --- StereoAspects end ---
+[2023.01.31-22.24.27:034][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.31-22.24.27:035][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.31-22.24.27:063][  0]LogAssetRegistry: FAssetRegistry took 0.0082 seconds to start up
+[2023.01.31-22.24.27:068][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.31-22.24.27:623][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.31-22.24.27:865][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: Available device profiles:
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E8C00][000005343A521800 52] GlobalDefaults, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E8A00][0000053438795000 52] Windows, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EAE00][0000053438792800 52] WindowsEditor, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9C00][000005343A2A2800 52] WindowsServer, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9800][000005343A5C7800 52] WindowsClient, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E8E00][000005343B64C800 52] IOS, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EA600][0000053438790000 52] iPadAir2, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EBC00][0000053443CF0000 52] IPadPro, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EBE00][0000053443CF2800 52] iPadAir3, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EB200][0000053443CF7800 52] iPadAir4, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EB600][0000053443CFA000 52] iPadAir5, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EA400][0000053443CFC800 52] iPadMini4, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EAC00][0000053428ED0000 52] iPadMini5, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EAA00][0000053443CF5000 52] iPadMini6, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EDA00][0000053443D05000 52] iPhone6S, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EDC00][0000053443D02800 52] iPhone7, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EDE00][0000053443D00000 52] iPodTouch7, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EC000][0000053443D0A000 52] iPhone6SPlus, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ECA00][0000053443D0C800 52] iPhone7Plus, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9E00][000005343A5C2800 52] iPhoneSE, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9600][0000053443CA0000 52] iPhone8, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EC800][0000053443CA5000 52] iPhone8Plus, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ED600][0000053443CA7800 52] iPhoneX, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EC600][0000053443CAA000 52] iPhoneXS, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ED800][0000053443CAC800 52] iPhoneXSMax, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EA800][0000053443D07800 52] iPhoneXR, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ECE00][0000053443CE0000 52] iPhone11, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ED400][0000053443CE5000 52] iPhone11Pro, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EA200][0000053443CE7800 52] iPhone11ProMax, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EB800][0000053443CEA000 52] iPhoneSE2, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ED200][0000053443CEC800 52] iPhone12Mini, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EB400][0000053443CA2800 52] iPhone12, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ED000][0000053443D20000 52] iPhone12Pro, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EC400][0000053443D25000 52] iPhone12ProMax, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EE000][0000053443D27800 52] iPhone13Mini, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9400][0000053443D2A000 52] iPhone13, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431ECC00][0000053443D2C800 52] iPhone13Pro, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E9000][0000053443CE2800 52] iPhone13ProMax, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EE800][0000053443D30000 52] iPhoneSE3, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EBA00][0000053443D35000 52] iPhone14, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EEA00][0000053443D37800 52] iPhone14Plus, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EEE00][0000053443D3A000 52] iPhone14Pro, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EF000][0000053443D3C800 52] iPhone14ProMax, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EE200][0000053443D22800 52] iPadPro105, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EE400][0000053443D40000 52] iPadPro129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431E8200][0000053443D45000 52] iPadPro97, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EF800][0000053443D47800 52] iPadPro2_129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EB000][0000053443D4A000 52] iPad5, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EFA00][0000053443D4C800 52] iPad6, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[00000534431EFE00][0000053443D32800 52] iPad7, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[000005344322EE00][0000053443D60000 52] iPad8, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[000005343B654000][0000053443D65000 52] iPad9, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80000][0000053443D67800 52] iPad10, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81200][0000053443D6A000 52] iPadPro11, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81000][0000053443D6C800 52] iPadPro2_11, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81A00][0000053443D42800 52] iPadPro3_11, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80800][0000053443D90000 52] iPadPro4_11, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81400][0000053443D95000 52] iPadPro3_129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80A00][0000053443D97800 52] iPadPro4_129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80E00][0000053443D9A000 52] iPadPro5_129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82000][0000053443D9C800 52] iPadPro6_129, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80200][0000053443D62800 52] AppleTV, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80400][0000053443DA0000 52] AppleTV4K, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81E00][0000053443DA5000 52] AppleTV2_4K, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82800][0000053443DA7800 52] TVOS, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83C00][0000053443DAC800 52] Mac, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83E00][0000053443DAA000 52] MacEditor, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83200][0000053443D92800 52] MacClient, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83600][0000053443DB0000 52] MacServer, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84200][0000053443DB7800 52] Linux, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84400][0000053443DB5000 52] LinuxEditor, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82200][0000053443DBA000 52] LinuxArm64Editor, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82E00][0000053443DBC800 52] LinuxArm64, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80C00][0000053443DA2800 52] LinuxClient, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84000][0000053443DC0000 52] LinuxArm64Client, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82C00][0000053443DC5000 52] LinuxServer, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83000][0000053443DC7800 52] LinuxArm64Server, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83400][0000053443DCA000 52] Android, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84600][0000053443DCC800 52] Android_Preview_OpenGL, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82400][0000053443DB2800 52] Android_Preview_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81C00][0000053443DD0000 52] Android_Low, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84E00][0000053443DD5000 52] Android_Mid, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81600][0000053443DD7800 52] Android_High, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D81800][0000053443DDA000 52] Android_Default, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85000][0000053443DDC800 52] Android_Adreno4xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D80600][0000053443DC2800 52] Android_Adreno5xx_Low, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82600][0000053443D50000 52] Android_Adreno5xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84800][0000053443D55000 52] Android_Adreno6xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85800][0000053443D57800 52] Android_Adreno6xx_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83800][0000053443D5A000 52] Android_Adreno7xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85A00][0000053443D5C800 52] Android_Adreno7xx_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85E00][0000053443DD2800 52] Android_Mali_T6xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86000][0000053443DE0000 52] Android_Mali_T7xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85200][0000053443DE5000 52] Android_Mali_T8xx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85400][0000053443DE7800 52] Android_Mali_G71, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84C00][0000053443DEA000 52] Android_Mali_G72, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86800][0000053443DEC800 52] Android_Mali_G72_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D84A00][0000053443D52800 52] Android_Mali_G76, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86A00][0000053443DF0000 52] Android_Mali_G76_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86E00][0000053443DF5000 52] Android_Mali_G77, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87000][0000053443DF7800 52] Android_Mali_G77_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86200][0000053443DFA000 52] Android_Mali_G78, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D86400][0000053443DFC800 52] Android_Mali_G78_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D83A00][0000053443DE2800 52] Android_Mali_G710, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87800][0000053443E00000 52] Android_Mali_G710_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D82A00][0000053443E05000 52] Android_Xclipse_920, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87A00][0000053443E07800 52] Android_Xclipse_920_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87E00][0000053443E0A000 52] Android_Vulkan_SM5, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D88000][0000053443E0C800 52] Android_PowerVR_G6xxx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87200][0000053443DF2800 52] Android_PowerVR_GT7xxx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87400][0000053443E10000 52] Android_PowerVR_GE8xxx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D87C00][0000053443E15000 52] Android_PowerVR_GM9xxx, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D88600][0000053443E17800 52] Android_PowerVR_GM9xxx_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D88800][0000053443E1A000 52] Android_TegraK1, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D89000][0000053443E1C800 52] Android_Unknown_Vulkan, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D88200][0000053443E02800 52] Oculus_Quest, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D88E00][0000053443E20000 52] Oculus_Quest2, 
+[2023.01.31-22.24.27:865][  0]LogDeviceProfileManager: 	[0000053443D85C00][0000053443E25000 52] HoloLens, 
+[2023.01.31-22.24.27:866][  0]LogDeviceProfileManager: Active device profile: [00000534431EAE00][0000053438792800 52] WindowsEditor
+[2023.01.31-22.24.27:866][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.31-22.24.27:866][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2023.01.31-22.24.27:866][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2023.01.31-22.24.27:866][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../Projects/BossAIToolkit/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2023.01.31-22.24.27:868][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Allowed_Sdk=r25b, Current_Sdk=, Allowed_AutoSdk=r25b, Current_AutoSdk=, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.31-22.24.27:868][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, MinAllowed_Sdk=1100.0.0.0, MaxAllowed_Sdk=1499.0, Current_Sdk=, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2023.01.31-22.24.27:868][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Allowed_Sdk=v20_clang-13.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v20_clang-13.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2023.01.31-22.24.27:868][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Allowed_Sdk=v20_clang-13.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v20_clang-13.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2023.01.31-22.24.27:868][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2023.01.31-22.24.27:872][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyReport_1.log" -log="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyLog_1.log" -project="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject"  -Device=Win64@TURAHOK-PC'
+[2023.01.31-22.24.27:872][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE4/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyReport_1.log" -log="D:/UE4/Projects/BossAIToolkit/Intermediate/TurnkeyLog_1.log" -project="D:/UE4/Projects/BossAIToolkit/BossAIToolkit.uproject"  -Device=Win64@TURAHOK-PC" -nocompile -nocompileuat ]
+[2023.01.31-22.24.27:911][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.31-22.24.28:020][  0]LogMaterial: Display: WorldGridMaterial-SM5-Default: MATSM_01614A42F67F4FFC8600AD04D15D199F_PCD3D_SM5_-1111051726__BC5N_NoCCBN_NoIris_DEV_SL_GV_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWDFS_gs1_sdct_VT-0-0-1-0_DF_VED_Aniso-1_ComprOodle_Compr2_Lev6_ExclNonPipSh-1_LWC-2097152_3821117834D223CF754F51059EF2CB96AE54674576_Num_SM5_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_5ED0A2783F630BA5CB3EC77766BEDE91B3ED4A5F___TShadowDepthPSPixelShadowDepth_PerspectiveCorrectF449D5DEDCF833608913E6CD8B760EAB37A0558772C96EE55043153763054472F92891367BC849EC_FLumenCardPS<false>C99F08DFC47581645B636159483DE183E5DB9135B4AFBC835B0E8511B596BB98C6C375E96F613E4D_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrectF449D5DEDCF833608913E6CD8B760EAB37A055875D9003A07122BE7BD2876C98DF8D858F5E00365D_TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly566268C17842BE32F7F4196A64F1F860A951687BFCFDE4884D635EDF4F18BD3392801DB627240626_TLightMapDensityPSTLightMapPolicyHQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E29E8E0F5F6FD2EDF413A1250AA7BE6E52C951D64_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C72C399F00EA0D8E90CF7BA4C61EF5A3EF74973E9_TBasePassPSTLightMapPolicyLQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C2E4EA8FEEED7EE52C208FC54424FEDB2CB987C3B_FLandscapeGrassWeightVSCE760ED4917D7AE7004CF8C6F5F4499E9B97C589A469FA5FCF448A131F926D214995E53915A18256_TLightMapDensityVSFNoLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E891C1124EC1B5DB941DF1BA5FABB4BBFA352223F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C69888500E07A0F62E3747DCAFAE5FAC8F032AD04_FHitProxyVS7C36940791A54FBE6A358BA344C8BFAD3CAD2B93B282128ADBC0C8F2E22B2C5B575EEDED30A8B7B8_FHitProxyPSF2A8FCCDF8BB1EBC7BCC3C20C862B59EB528CDEF2A74A59EB00EA821209C26349094BBB03F4D6ED5_FLandscapeGrassWeightPSCE760ED4917D7AE7004CF8C6F5F4499E9B97C589106C943CF2E5C6D33DAE5FDC4A4E9B8232B7C78A_TBasePassPSFNoLightMapPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C6C8686026B054D9BD961D4C440F5FDD54CA38C07_TShadowDepthVSVertexShadowDepth_OutputDepth566268C17842BE32F7F4196A64F1F860A951687B5C128A2F6D1507D174ED09775E1D5BB050F02683_TDepthOnlyVS<true>77E78BED1A1AECF5E6A7B716F216702EBC4CCE9C2A9A9EB6F6AEC78D04ED0798341235919F1C7EA3_FLandscapePhysicalMaterialPS9BD56FDC1A69F5A3842C3E86AD24E497CDE01F1CBD4AAA5E1E701CB0F79C3E8D450BEF8AC937258A_TLightMapDensityVSFDummyLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452EA8D01D556A2A6347711968CC5B2C44E20848E17B_FLumenCardVSAC81B5EC2471BF6EB1C6B5C0DED961C1BBCB3000617646237FDC69FB38D590AA0B687E0FB01A281E_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279FB996F0BE2BDCDA243D4A21F958EA439EF10418F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435CE098E06E3A7ED4E7D0AE384D374798EAC9E671FB_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C1BF2DD414CE38D1A46E8BD153A9AAA4080A3ED8A_TBasePassPSTLightMapPolicyHQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C26BD9FE44090B7A8EDCBBA02B66941E951A0847F_TLightMapDensityPSFDummyLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E696F9EC07D698191FA845F9186A9C2C14B87D692_TBasePassPSFCachedPointIndirectLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435CEA781543209A66E56FAA33319B50428AB09B65E2_FTranslucentLightingInjectPSCCCA088722FF1CDD2E95226DEA88C3E868FF7BC670CF5C264EEE993F300F770C1E5D8BD55181BC8A_TBasePassVSFCachedPointIndirectLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279D1726533EF0C3E687EA7E3E99D89F6645873B5F6_TBasePassPSFCachedPointIndirectLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C233B673B73AD5C3DA45AB58558A2FEAF1AB5A7AA_FVelocityPSC89A3E8742CC125CAF8FEB3824D895F0E057EC90CC98E6311AC1581B96A09EEE8AE8F6960285B5A2_TBasePassPSFCachedVolumeIndirectLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C80D0A4694439F865D3CC508893BCA55969638F38_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect566268C17842BE32F7F4196A64F1F860A951687BC004ABA017AA57991204B7B624FFD889C3B24A57_TBasePassPSFCachedVolumeIndirectLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C588D69EC55B53A1F6EF1FDFE007D13A68C0DD945_TLightMapDensityPSFNoLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E0E6A1E8C16C0AF9964CF3FEFC1B82F1F3B567770_TLightMapDensityVSTLightMapPolicyLQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E436509D3C31F9011DB1B52E8E02F2100F14082F9_TBasePassVSTLightMapPolicyHQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279CE573C2FA544614368F38DB987E943642455C304_FLandscapePhysicalMaterialVS9BD56FDC1A69F5A3842C3E86AD24E497CDE01F1CDE0D5BCEA7EC56FCFAF6FE24C7902B1E6C1A2354_TBasePassPSFNoLightMapPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C3C0FD33120C8575A512698C01E1EBF84CB90BE73_TBasePassVSFCachedVolumeIndirectLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD627952DA8047FE3873ACFEEB67FCFF3AF5DF1AA7C5C8_TShadowDepthPSPixelShadowDepth_OnePassPointLightF449D5DEDCF833608913E6CD8B760EAB37A055871C20FE0F6421C3566B37C59CBA77F6639400AC09_TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnly566268C17842BE32F7F4196A64F1F860A951687B860900EDBECB877A088A2E4A829C4D0BA92DB982_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD627960D5E6FFDE96A687BE1C1A2ED9EDE815F8E41839_TShadowDepthVSVertexShadowDepth_OnePassPointLight566268C17842BE32F7F4196A64F1F860A951687B56E359529EA5F920092BA8DF37812C451EC3EEF6_TBasePassPSTLightMapPolicyLQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C94FC918ED25A4366478C0CE664DD0F431FB434A6_TLightMapDensityPSTLightMapPolicyLQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E0B66239385DAE6F5050046365A9D116D80E52224_TBasePassVSTLightMapPolicyLQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279BFC5C974DD65E6DA17A7D3C21BFBF250BA30283F_TLightMapDensityVSTLightMapPolicyHQC84C3C8B1FA855658F9C0A2A371DDABD1F79452EB0E82574BC7F5C377B8E738E24BDE3D732363B44_FDebugViewModePS56838088095D59EE5193ECF20E85FE62298C7B9EE177622259CDB9DC1140CF61335F5353997EC8B6_TBasePassPSTLightMapPolicyHQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C25C2A51F6B76462E73EA9720145CE5233C11211C_TDepthOnlyVS<false>24730E33B4CBAAD6CC8E99A19D1BC1E6B4CB0B0AACA14F90957AEBF5BC1C2C3E6DB6BC750BA01CCD_FVelocityVSC89A3E8742CC125CAF8FEB3824D895F0E057EC90C043BB9FD7164B6E8DBD4123FD00693BC9B4513E_FDebugViewModeVS3D41E5A6CFCAEA88797E908D01A0A213270F85AA809CB80A6A7260721600DBFAB6C1E0001BD9B8AE_TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnly566268C17842BE32F7F4196A64F1F860A951687B6EB2AEF0350E0D6AC5867CF6F9990BDA65424641_TBasePassVSFNoLightMapPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD62792677AEB94C74F9DCEF44AB17F94D82839B020A23_DepthPosOnlyNoPixelPipeline77E78BED1A1AECF5E6A7B716F216702EBC4CCE9C_VelocityPipeline870119D18CF0465BE0070A38FCB3F092A61618D2_DepthNoPixelPipeline24730E33B4CBAAD6CC8E99A19D1BC1E6B4CB0B0A_FGPUSpriteVertexFactoryB023D948191B883949FF744AF068D58B6674E0495C5BE91DA01DC2B25B1018F3EDA7A6FC7D1D30AEB9CA513CCBA4F1E3AF7D9556DD0F2FF45E951E1A_FNiagaraRibbonVertexFactory02111BEB92300CA1083426DF3B5036FB866E6D3DA5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966DE03DD13CEAD2D60503F2AAC85D4762994EF4025A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966_TGPUSkinAPEXClothVertexFactoryDefault78B6E71606342DB0718C0CB5514BFF039A3BFC1D594A4B2FCC58950587792A2CD41332131D3786E2_FParticleSpriteVertexFactory0B9848D46CEFCCD36BD972B3DCD50B8535368BABF99E1B0FB635933CEEAC41CF9441DF5EA4A994CA9DAE5A7C55936FD50BC3B20BD063C1832A4D4247_TGPUSkinVertexFactoryUnlimited78B6E71606342DB0718C0CB5514BFF039A3BFC1D180376A7171B50BD465E9983F32BCB5A07542FE7_FVectorFieldVisualizationVertexFactory29E6C71148328626051CD3685ED4463389FCC050CC854D8E74FEAEF90804D69AF6B78BD07A141ACC_FNiagaraMeshVertexFactoryABADC3FDA7FFF8E984F9BD6ABC7F9CC89BF514854B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9571BD81B2CBA1F364F28A837532353718EB814537B4B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9574B3A20E0CA93D5CA5A60C16EF2EB14EA073FC957_FParticleBeamTrailVertexFactory713DBD8F3CB30EBEE7F1075062B25AE25537E1D1378BBDDEC2CEAC35A309C357B38D702E7981D5D3_TGPUSkinVertexFactoryDefault78B6E71606342DB0718C0CB5514BFF039A3BFC1D180376A7171B50BD465E9983F32BCB5A07542FE7_TGPUSkinAPEXClothVertexFactoryUnlimited78B6E71606342DB0718C0CB5514BFF039A3BFC1D594A4B2FCC58950587792A2CD41332131D3786E2_FGeometryCollectionVertexFactoryF791AC6341FF97FC6CF0C8483241C9BC3B55570949D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC41_FLandscapeXYOffsetVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FMeshParticleVertexFactory083F8367142CEF5680A007B3BEFDF4AD3B6626EEF773920348F231C490A74B1A551F8CE3ABF04791_FInstancedStaticMeshVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8_FSplineMeshVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05A747D67BD07743C1BEA1DE549F682B82EB7B9965_FLocalVertexFactory3B3DFB1FEDE34A7A85FB5103E7AD47D9FB2DAB05AC1A437FDC42E3432CC66409573A167E09487E70AC1A437FDC42E3432CC66409573A167E09487E70AC1A437FDC42E3432CC66409573A167E09487E70_FLandscapeVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FNiagaraSpriteVertexFactory983CF9980B73A474E8D7D8E01013CC0E6E16DAAE5957CFEE095AEFFBA7F83F09F020F15CF6555718EFF166204144512228FF7A163011544EEF3FD2265957CFEE095AEFFBA7F83F09F020F15CF65557185957CFEE095AEFFBA7F83F09F020F15CF6555718_FGeometryCacheVertexVertexFactory921F6B033EF261C9D21AB065EC0B6C351583BCAA76143182082C57C6F98756E7AE927ED26DD4479A76143182082C57C6F98756E7AE927ED26DD4479A_FLandscapeFixedGridVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F83F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB254810141414444414441444141414141444447401010101010131454444143314401310102044441615121414240444424141413131014344447443424144444444404444444444444444341414141424044444444444444442434141415101010110131313331213333434141423141342044444141413131343041413101015101010103561616135343434146461616161616146121316161606434343434441444444445151510101011310105361616161210004040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244444444344444424241412141444444424141414341414141414141414131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424143434341434141444141413131313432444141412441413131344443414141212124212131314442122226141142210121212124244444444440414151015101530434101331414600144444451011015151515161616161610101010101505242131616161616111260101117044313131413143101410101010101015101010101030445101101010101010101010101010101010101010106001404044414040421213131344141010101010101010131010002431313141616161101016164642141313131212121212121212141444444444441402444444212121212121212121212121213121212121212121212121412121212121212121214344314110131313131616161616161616023144444444434144414141414242212121212121212121213121212121212121212121212121212121444442424243434341414441414141414444444444444444214421101313131313131616161606010121010101015101210140444444043424044424141315004444444444443434101313133214030404043414443414331443341433143314341434143314331433142214143314441441210431413141015101010146444444044464444444444044401415101510151015000101010101010101010101010110000444140404141210101000010101010101014444424201404444444444444444444444444444444444444444444444444444444444444444444444444404444444444444434144414141414342101313131212132322222212101010101000010101010144444242412101010101510151014101015101010101004444441415151040404043410004040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244444444344444424241412141444444424141414341414141414141414131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424143434341434141444141413131313432444141412441413131344443414141212124212131314141010151515151515151515151010101010101010101515151515101510151015101510151010101010101015101616161616151015101510151015101510151013131515151510151010151016461414151010161617161636340431313131313131314422223141414101010101010000110000001300000013000000130000001300000013000000130000000C00000013000000130000000D00000008000000140000000F00000010000000080000000900000008000000230000001000000010000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CE00000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000120000001000000008000000080000000800000014000000140000001300000008000000100000000800000008000000080000000800000008000000080000001300000009000000140000000E00000013000000130000001300000013000000130000001300000008000000100000000900000008000000090000000800000008000000130000000900000008000000090000000800000009000000080000000C00000009000000080000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000130000001000000010000000100000001000000009000000090000000900000010000000100000001000000010000000080000001A00000014000000290000000D000000440000000B0000000B00000013000000130000000900000009000000090000001400000008000000090000000D0000000C00000010000000080000000800000028000000100000001000000010000000100000000900000008000000100000001000000010000000100000001000000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000C00000009000000080000000900000008000000090000000C0000000800000013000000260000000F000000110000000900000009000000090000000900000009000000100000001B0000001300000013000000130000001300000013000000090000000800000009000000080000000800000008000000140000001400000008000000090000000900000008000000080000001000000008000000080000001000000010000000290100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A899000000000000000000000000000000000000000054BDFD528AA46A4E9413E044DCAC9A8F37A07E9D_101_101_4;
+[2023.01.31-22.24.28:258][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.31-22.24.28:258][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.31-22.24.28:258][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.31-22.24.28:258][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.31-22.24.28:258][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.31-22.24.28:543][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.01.31-22.24.28:948][  0]LogNetVersion: BossAIToolkit 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 1368703200)
+[2023.01.31-22.24.30:821][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.01.31-22.24.30:821][  0]LogUObjectAllocator: 5786176 out of 0 bytes used by permanent object pool.
+[2023.01.31-22.24.30:821][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.31-22.24.30:842][  0]LogSlate: Border
+[2023.01.31-22.24.30:842][  0]LogSlate: BreadcrumbButton
+[2023.01.31-22.24.30:842][  0]LogSlate: Brushes.Title
+[2023.01.31-22.24.30:842][  0]LogSlate: Default
+[2023.01.31-22.24.30:842][  0]LogSlate: Icons.Save
+[2023.01.31-22.24.30:842][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.31-22.24.30:842][  0]LogSlate: ListView
+[2023.01.31-22.24.30:842][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.31-22.24.30:842][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.31-22.24.30:842][  0]LogSlate: TableView.DarkRow
+[2023.01.31-22.24.30:842][  0]LogSlate: TableView.Row
+[2023.01.31-22.24.30:842][  0]LogSlate: TreeView
+[2023.01.31-22.24.31:005][  0]LogTurnkeySupport: Turnkey Device: Win64@TURAHOK-PC: (Name=TURAHOK-PC, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.01.31-22.24.31:041][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.31-22.24.31:108][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.31-22.24.31:111][  0]LogUdpMessaging: Display: Added local interface '192.168.0.211' to multicast group '230.0.0.1:6666'
+[2023.01.31-22.24.31:412][  0]LogPython: Using Python 3.9.7
+[2023.01.31-22.24.32:047][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 45437938430A09E852712FAE44761488 | Instance: 6DA9256441F419C91FFAAD82CB695D5D (TURAHOK-PC-24356).
+[2023.01.31-22.24.32:238][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.31-22.24.32:262][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.01.31-22.24.32:875][  0]SourceControl: Source control is disabled
+[2023.01.31-22.24.32:878][  0]SourceControl: Source control is disabled
+[2023.01.31-22.24.32:882][  0]SourceControl: Source control is disabled
+[2023.01.31-22.24.32:892][  0]LogUProjectInfo: Found projects:
+[2023.01.31-22.24.32:896][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.32:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.32:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.33:306][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.31-22.24.33:360][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.31-22.24.33:378][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.31-22.24.33:378][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.31-22.24.33:459][  0]LogCollectionManager: Loaded 0 collections in 0.000603 seconds
+[2023.01.31-22.24.33:460][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/BossAIToolkit/Saved/Collections/' took 0.00s
+[2023.01.31-22.24.33:461][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/BossAIToolkit/Content/Developers/jwyue/Collections/' took 0.00s
+[2023.01.31-22.24.33:542][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/BossAIToolkit/Content/Collections/' took 0.00s
+[2023.01.31-22.24.33:892][  0]LogEngine: Initializing Engine...
+[2023.01.31-22.24.33:900][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.31-22.24.34:887][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.31-22.24.34:900][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.31-22.24.34:916][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.31-22.24.34:917][  0]LogNetVersion: Set ProjectVersion to 1.1.0. Version Checksum will be recalculated on next use.
+[2023.01.31-22.24.34:917][  0]LogInit: Texture streaming: Enabled
+[2023.01.31-22.24.34:938][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.0-23058290+++UE5+Release-5.1
+[2023.01.31-22.24.34:945][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.31-22.24.34:960][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.31-22.24.34:961][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.31-22.24.34:962][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.31-22.24.34:964][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.31-22.24.34:964][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.31-22.24.34:968][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.31-22.24.34:992][  0]LogAudioMixer: Display: Using Audio Hardware Device 42W_LCD_TV (NVIDIA High Definition Audio)
+[2023.01.31-22.24.34:993][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.31-22.24.34:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.31-22.24.34:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.31-22.24.34:996][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.31-22.24.34:996][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.31-22.24.34:997][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.31-22.24.34:997][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.31-22.24.34:997][  0]LogInit: FAudioDevice initialized.
+[2023.01.31-22.24.34:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.31-22.24.35:010][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.31-22.24.35:016][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.31-22.24.35:016][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.31-22.24.35:017][  0]LogLiveCoding: Display: First instance in process group "UE_BossAIToolkit_0xbddd3c5a", spawning console
+[2023.01.31-22.24.35:030][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.31-22.24.36:967][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.31-22.24.36:976][  0]LogInit: Transaction tracking system initialized
+[2023.01.31-22.24.37:016][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.01.31-22.24.37:017][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.001669 seconds (Found 115 uncontrolled assets)
+[2023.01.31-22.24.37:038][  0]BlueprintLog: New page: Editor Load
+[2023.01.31-22.24.37:173][  0]LocalizationService: Localization service is disabled
+[2023.01.31-22.24.37:203][  0]TimingProfiler: Initialize
+[2023.01.31-22.24.37:203][  0]TimingProfiler: OnSessionChanged
+[2023.01.31-22.24.37:203][  0]LoadingProfiler: Initialize
+[2023.01.31-22.24.37:203][  0]LoadingProfiler: OnSessionChanged
+[2023.01.31-22.24.37:203][  0]NetworkingProfiler: Initialize
+[2023.01.31-22.24.37:203][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.31-22.24.37:203][  0]MemoryProfiler: Initialize
+[2023.01.31-22.24.37:203][  0]MemoryProfiler: OnSessionChanged
+[2023.01.31-22.24.37:259][  0]Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2023.01.31-22.24.37:259][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2023.01.31-22.24.37:345][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.37:345][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.37:346][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.31-22.24.37:727][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/BossAIToolkit/Content/' took 0.01s
+[2023.01.31-22.24.38:080][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.01.31-22.24.38:099][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.31-22.24.38:365][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.31-22.24.38:368][  0]SourceControl: Source control is disabled
+[2023.01.31-22.24.38:368][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.790
+[2023.01.31-22.24.38:368][  0]Cmd: MAP LOAD FILE="../../../../Projects/BossAIToolkit/Content/BossAIToolkit/Maps/Overview_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.31-22.24.38:368][  0]LightingResults: New page: Lighting Build
+[2023.01.31-22.24.38:372][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.31-22.24.38:372][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.31-22.24.38:372][  0]MapCheck: New page: Map Check
+[2023.01.31-22.24.38:372][  0]LightingResults: New page: Lighting Build
+[2023.01.31-22.24.38:379][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.31-22.24.38:382][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.31-22.24.41:879][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Blink_XSlashMeshB) ...
+[2023.01.31-22.24.41:939][  0]LogStaticMesh: Display: Building static mesh SM_Blink_XSlashMeshB...
+[2023.01.31-22.24.41:943][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Blink_XSlashMeshB.SM_Blink_XSlashMeshB
+[2023.01.31-22.24.41:945][  0]LogStaticMesh: Display: Building static mesh SM_Blink_XSlashMesh...
+[2023.01.31-22.24.41:949][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Blink_XSlashMesh.SM_Blink_XSlashMesh
+[2023.01.31-22.24.42:043][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Shape_Groundburst_XAligned) ...
+[2023.01.31-22.24.42:128][  0]LogStaticMesh: Display: Building static mesh SM_Shape_Groundburst_XAligned...
+[2023.01.31-22.24.42:133][  0]LogStaticMesh: Display: Building static mesh SM_Boulders_1...
+[2023.01.31-22.24.42:133][  0]LogStaticMesh: Display: Building static mesh SM_Rock_02...
+[2023.01.31-22.24.42:134][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Shape_Groundburst_XAligned.SM_Shape_Groundburst_XAligned
+[2023.01.31-22.24.42:135][  0]LogStaticMesh: Display: Building static mesh SM_Rock_Shard...
+[2023.01.31-22.24.42:136][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Debris/SM_Rock_02.SM_Rock_02
+[2023.01.31-22.24.42:136][  0]LogStaticMesh: Display: Building static mesh SM_refractive_sphere...
+[2023.01.31-22.24.42:138][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Debris/SM_Boulders_1.SM_Boulders_1
+[2023.01.31-22.24.42:154][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_refractive_sphere.SM_refractive_sphere
+[2023.01.31-22.24.42:154][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Debris/SM_Rock_Shard) ...
+[2023.01.31-22.24.42:171][  0]LogStaticMesh: Built static mesh [0.04s] /Game/BossAIToolkit/Demo/FX/Meshes/Debris/SM_Rock_Shard.SM_Rock_Shard
+[2023.01.31-22.24.42:313][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Spiral_Explosion...
+[2023.01.31-22.24.42:318][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Smoke/SM_Sevarog_Spiral_Explosion.SM_Sevarog_Spiral_Explosion
+[2023.01.31-22.24.42:390][  0]LogStaticMesh: Display: Building static mesh SM_Terra_DrumImpact_SphereShape...
+[2023.01.31-22.24.42:390][  0]LogStaticMesh: Display: Building static mesh SM_Terra_SlowDome...
+[2023.01.31-22.24.42:390][  0]LogStaticMesh: Display: Building static mesh SM_1MeterSphere_MultiUVs...
+[2023.01.31-22.24.42:401][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/SM_Terra_DrumImpact_SphereShape.SM_Terra_DrumImpact_SphereShape
+[2023.01.31-22.24.42:408][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Heroes/SM_Terra_SlowDome) ...
+[2023.01.31-22.24.42:428][  0]LogStaticMesh: Built static mesh [0.04s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/SM_Terra_SlowDome.SM_Terra_SlowDome
+[2023.01.31-22.24.42:454][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_1MeterSphere_MultiUVs) ...
+[2023.01.31-22.24.42:488][  0]LogStaticMesh: Built static mesh [0.10s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_1MeterSphere_MultiUVs.SM_1MeterSphere_MultiUVs
+[2023.01.31-22.24.42:504][  0]LogStaticMesh: Display: Building static mesh SM_Terra_Sweep_A...
+[2023.01.31-22.24.42:504][  0]LogStaticMesh: Display: Building static mesh SM_Terra_Sweep_B...
+[2023.01.31-22.24.42:504][  0]LogStaticMesh: Display: Building static mesh SM_Terra_Sweep_Flat_A...
+[2023.01.31-22.24.42:504][  0]LogStaticMesh: Display: Building static mesh SM_Terra_Sweep_Flat_B...
+[2023.01.31-22.24.42:507][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/Terra/Abilities/SM_Terra_Sweep_Flat_B.SM_Terra_Sweep_Flat_B
+[2023.01.31-22.24.42:507][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/Terra/Abilities/SM_Terra_Sweep_Flat_A.SM_Terra_Sweep_Flat_A
+[2023.01.31-22.24.42:512][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/Terra/Abilities/SM_Terra_Sweep_B.SM_Terra_Sweep_B
+[2023.01.31-22.24.42:515][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Heroes/Terra/Abilities/SM_Terra_Sweep_A.SM_Terra_Sweep_A
+[2023.01.31-22.24.42:525][  0]LogStaticMesh: Display: Building static mesh SM_1M_Cube_Chamfer...
+[2023.01.31-22.24.42:525][  0]LogStaticMesh: Display: Building static mesh SM_Sphere...
+[2023.01.31-22.24.42:530][  0]LogStaticMesh: Display: Building static mesh SM_Howitzer_MicroRocket...
+[2023.01.31-22.24.42:531][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Assets/Geometry/Meshes/SM_1M_Cube_Chamfer.SM_1M_Cube_Chamfer
+[2023.01.31-22.24.42:533][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Sphere.SM_Sphere
+[2023.01.31-22.24.42:542][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/MicroRocket/SM_Howitzer_MicroRocket.SM_Howitzer_MicroRocket
+[2023.01.31-22.24.42:603][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Terra...
+[2023.01.31-22.24.42:615][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Terra) ...
+[2023.01.31-22.24.42:724][  0]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/BossAIToolkit/Demo/Terra/Meshes/SK_Terra.SK_Terra
+[2023.01.31-22.24.43:124][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Hand_Frame1...
+[2023.01.31-22.24.43:124][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Hand_Frame3...
+[2023.01.31-22.24.43:124][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Hand_Frame4...
+[2023.01.31-22.24.43:124][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Hand_Frame5...
+[2023.01.31-22.24.43:146][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BossAIToolkit/Demo/FX/Meshes/Hero_Specific/SM_Sevarog_Hand_Frame5) ...
+[2023.01.31-22.24.43:149][  0]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/FX/Meshes/Hero_Specific/SM_Sevarog_Hand_Frame4.SM_Sevarog_Hand_Frame4
+[2023.01.31-22.24.43:149][  0]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/FX/Meshes/Hero_Specific/SM_Sevarog_Hand_Frame3.SM_Sevarog_Hand_Frame3
+[2023.01.31-22.24.43:150][  0]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/FX/Meshes/Hero_Specific/SM_Sevarog_Hand_Frame1.SM_Sevarog_Hand_Frame1
+[2023.01.31-22.24.43:150][  0]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/FX/Meshes/Hero_Specific/SM_Sevarog_Hand_Frame5.SM_Sevarog_Hand_Frame5
+[2023.01.31-22.24.43:169][  0]LogStaticMesh: Display: Building static mesh SM_CleanseBubble...
+[2023.01.31-22.24.43:169][  0]LogStaticMesh: Display: Building static mesh SM_Dive_Flames...
+[2023.01.31-22.24.43:169][  0]LogStaticMesh: Display: Building static mesh SM_Sevarog_Spiral_v1...
+[2023.01.31-22.24.43:174][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Dive_Flames.SM_Dive_Flames
+[2023.01.31-22.24.43:174][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Smoke/SM_Sevarog_Spiral_v1.SM_Sevarog_Spiral_v1
+[2023.01.31-22.24.43:175][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_CleanseBubble.SM_CleanseBubble
+[2023.01.31-22.24.43:251][  0]LogStaticMesh: Display: Building static mesh SM_Base...
+[2023.01.31-22.24.43:251][  0]LogStaticMesh: Display: Building static mesh SM_Base2...
+[2023.01.31-22.24.43:251][  0]LogStaticMesh: Display: Building static mesh SM_Base_FlatWall...
+[2023.01.31-22.24.43:251][  0]LogStaticMesh: Display: Building static mesh SM_BaseRoom...
+[2023.01.31-22.24.43:251][  0]LogStaticMesh: Display: Building static mesh SM_NamePlate...
+[2023.01.31-22.24.43:255][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_NamePlate.SM_NamePlate
+[2023.01.31-22.24.43:255][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2023.01.31-22.24.43:265][  0]LogStaticMesh: Display: Building static mesh SM_DemoDivider_2...
+[2023.01.31-22.24.43:265][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomBackWall...
+[2023.01.31-22.24.43:265][  0]LogStaticMesh: Display: Building static mesh SM_DemoDivider_1...
+[2023.01.31-22.24.43:265][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomBackWall2...
+[2023.01.31-22.24.43:267][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomClamp...
+[2023.01.31-22.24.43:268][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomBackWall.SM_DemoRoomBackWall
+[2023.01.31-22.24.43:268][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomBackWall2.SM_DemoRoomBackWall2
+[2023.01.31-22.24.43:269][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomClamp2...
+[2023.01.31-22.24.43:269][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomL...
+[2023.01.31-22.24.43:278][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomL.SM_DemoRoomL
+[2023.01.31-22.24.43:279][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomLTrim...
+[2023.01.31-22.24.43:281][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomLTrim.SM_DemoRoomLTrim
+[2023.01.31-22.24.43:282][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomTrim...
+[2023.01.31-22.24.43:285][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoDivider_2.SM_DemoDivider_2
+[2023.01.31-22.24.43:285][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoDivider_1.SM_DemoDivider_1
+[2023.01.31-22.24.43:288][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomTrimAdd...
+[2023.01.31-22.24.43:288][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomTrim2...
+[2023.01.31-22.24.43:292][  0]LogStaticMesh: Built static mesh [0.04s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_Base2.SM_Base2
+[2023.01.31-22.24.43:299][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/DemoRoom/Textures/T_UnrealEngineDecal.T_UnrealEngineDecal (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062483 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:299][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomU...
+[2023.01.31-22.24.43:304][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/DemoRoom/Textures/T_RoomTiles_M.T_RoomTiles_M (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062483 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:312][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomU.SM_DemoRoomU
+[2023.01.31-22.24.43:312][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/DemoRoom/Textures/T_RoomTiles_N.T_RoomTiles_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:325][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview_Map'.
+[2023.01.31-22.24.43:325][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.31-22.24.43:326][  0]LogAIModule: Creating AISystem for world Overview_Map
+[2023.01.31-22.24.43:327][  0]LogStaticMesh: Built static mesh [0.06s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomClamp.SM_DemoRoomClamp
+[2023.01.31-22.24.43:327][  0]LogStaticMesh: Built static mesh [0.06s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomClamp2.SM_DemoRoomClamp2
+[2023.01.31-22.24.43:339][  0]LogStaticMesh: Built static mesh [0.05s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomTrimAdd.SM_DemoRoomTrimAdd
+[2023.01.31-22.24.43:347][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomU2...
+[2023.01.31-22.24.43:347][  0]LogStaticMesh: Display: Building static mesh SM_DemoRoomU_Hole...
+[2023.01.31-22.24.43:347][  0]LogStaticMesh: Display: Building static mesh SM_URoom_Wall...
+[2023.01.31-22.24.43:349][  0]LogStaticMesh: Display: Building static mesh SM_URoom_Wall2...
+[2023.01.31-22.24.43:350][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/DemoRoom/Textures/T_Pattern_M.T_Pattern_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:370][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_URoom_Wall.SM_URoom_Wall
+[2023.01.31-22.24.43:371][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomU2.SM_DemoRoomU2
+[2023.01.31-22.24.43:371][  0]LogStaticMesh: Built static mesh [0.09s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomTrim.SM_DemoRoomTrim
+[2023.01.31-22.24.43:371][  0]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_URoom_Wall2.SM_URoom_Wall2
+[2023.01.31-22.24.43:371][  0]LogStaticMesh: Built static mesh [0.12s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_Base.SM_Base
+[2023.01.31-22.24.43:373][  0]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomU_Hole.SM_DemoRoomU_Hole
+[2023.01.31-22.24.43:388][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:390][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:390][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:393][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:394][  0]LogStaticMesh: Built static mesh [0.10s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_DemoRoomTrim2.SM_DemoRoomTrim2
+[2023.01.31-22.24.43:405][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.31-22.24.43:458][  0]LogStaticMesh: Built static mesh [0.21s] /Game/BossAIToolkit/Demo/DemoRoom/Meshes/SM_BaseRoom.SM_BaseRoom
+[2023.01.31-22.24.43:519][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:519][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:519][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:521][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:535][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.31-22.24.43:536][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.31-22.24.43:536][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2023.01.31-22.24.43:536][  0]LogFileHelpers: Loading map 'Overview_Map' took 5.168
+[2023.01.31-22.24.43:546][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.968
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: ================================================
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Total job queries 10, among them cache hits 0 (0.00%)
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Jobs assigned 6, completed 0 (0.00%)
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.31-22.24.43:546][  0]LogShaderCompilers: Display: ================================================
+[2023.01.31-22.24.43:578][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:ShadowMapTexture2D_5 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:581][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:ShadowMapTexture2D_3 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:581][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:585][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:586][  0]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.24.43:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.31-22.24.43:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.31-22.24.43:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.31-22.24.43:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.31-22.24.43:714][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:715][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:715][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:716][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:716][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:717][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:717][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:718][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:718][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:719][  0]LogPakFile: Display: Mounted Pak file 'D:/UE4/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.31-22.24.43:838][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.31-22.24.43:841][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.31-22.24.43:842][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.31-22.24.43:862][  0]LogViewport: Scene viewport resized to 1526x869, mode Windowed.
+[2023.01.31-22.24.44:256][  0]LogStall: Startup...
+[2023.01.31-22.24.44:257][  0]LogStall: Startup complete.
+[2023.01.31-22.24.44:312][  0]LogEnhancedInputEditor: Upgrading Default Input Component class from 'InputComponent' to 'EnhancedInputComponent'
+[2023.01.31-22.24.44:312][  0]LogEnhancedInputEditor: Upgrading Default Player Input class from 'PlayerInput' to 'EnhancedPlayerInput'
+[2023.01.31-22.24.44:333][  0]LogLoad: (Engine Initialization) Total time: 21.76 seconds
+[2023.01.31-22.24.44:333][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.31-22.24.44:380][  0]LogAssetRegistry: Asset discovery search completed in 17.3175 seconds
+[2023.01.31-22.24.44:399][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.31-22.24.44:536][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.31-22.24.44:763][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.31-22.24.45:480][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BossAIToolkit/Demo/Terra/Animations/Death.Death
+[2023.01.31-22.24.51:573][462]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.31-22.25.02:974][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.31-22.25.23:245][ 65]LogSlate: Window 'Asset Report' being destroyed
+[2023.01.31-22.25.37:271][ 65]LogSlate: Window 'Message' being destroyed
+[2023.01.31-22.25.37:274][ 65]Message dialog closed, result: YesAll, title: Message, text: An asset already exists at location D:/UE4/Projects/DevilsTrapRPG/Content/BossAIToolkit/Demo/Mannequin/Animations/AM_DodgeRoll.uasset would you like to overwrite it?
+[2023.01.31-22.25.37:709][ 65]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Terra) ...
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator7' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:806][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator5' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:807][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.37:808][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.37:808][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.37:808][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.37:808][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.37:808][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_HitType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_HitType.E_HitType' and '/Game/BossAIToolkit/Blueprints/Enums/E_HitType_MOVEDFORMIGRATION_88.E_HitType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_HitType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_HitType.E_HitType' and '/Game/BossAIToolkit/Blueprints/Enums/E_HitType_MOVEDFORMIGRATION_88.E_HitType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_HitType::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_HitType.E_HitType' and '/Game/BossAIToolkit/Blueprints/Enums/E_HitType_MOVEDFORMIGRATION_88.E_HitType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator5' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator6' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:809][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:810][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:810][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.37:812][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.37:813][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:813][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:813][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:813][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:831][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.37:831][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.37:831][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.37:831][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.37:831][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::E_MAX' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.37:979][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:979][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:979][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:979][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:979][ 65]LogEnum: Warning: Enum name collision: 'E_DirectionConditions::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions.E_DirectionConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DirectionConditions_MOVEDFORMIGRATION_107.E_DirectionConditions'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator5' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator6' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:984][ 65]LogEnum: Warning: Enum name collision: 'E_AbilityTargetType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType.E_AbilityTargetType' and '/Game/BossAIToolkit/Blueprints/Enums/E_AbilityTargetType_MOVEDFORMIGRATION_106.E_AbilityTargetType'
+[2023.01.31-22.25.37:987][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:987][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:987][ 65]LogEnum: Warning: Enum name collision: 'E_PatrolType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType.E_PatrolType' and '/Game/BossAIToolkit/Blueprints/Enums/E_PatrolType_MOVEDFORMIGRATION_626.E_PatrolType'
+[2023.01.31-22.25.37:995][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:995][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:995][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:995][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.37:995][ 65]LogEnum: Warning: Enum name collision: 'E_CrowdControl::NewEnumerator7' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl.E_CrowdControl' and '/Game/BossAIToolkit/Blueprints/Enums/E_CrowdControl_MOVEDFORMIGRATION_68.E_CrowdControl'
+[2023.01.31-22.25.39:034][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_ActionStates::NewEnumerator5' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates.E_ActionStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_ActionStates_MOVEDFORMIGRATION_116.E_ActionStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_PhaseTriggers::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers.E_PhaseTriggers' and '/Game/BossAIToolkit/Blueprints/Enums/E_PhaseTriggers_MOVEDFORMIGRATION_627.E_PhaseTriggers'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_HitType::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_HitType.E_HitType' and '/Game/BossAIToolkit/Blueprints/Enums/E_HitType_MOVEDFORMIGRATION_88.E_HitType'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_HitType::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_HitType.E_HitType' and '/Game/BossAIToolkit/Blueprints/Enums/E_HitType_MOVEDFORMIGRATION_88.E_HitType'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_DodgeConditions::NewEnumerator3' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions.E_DodgeConditions' and '/Game/BossAIToolkit/Blueprints/Enums/E_DodgeConditions_MOVEDFORMIGRATION_87.E_DodgeConditions'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_IdleStates::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates.E_IdleStates' and '/Game/BossAIToolkit/Blueprints/Enums/E_IdleStates_MOVEDFORMIGRATION_618.E_IdleStates'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.39:035][ 65]LogEnum: Warning: Enum name collision: 'E_CombatTrigger::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger.E_CombatTrigger' and '/Game/BossAIToolkit/Blueprints/Enums/E_CombatTrigger_MOVEDFORMIGRATION_625.E_CombatTrigger'
+[2023.01.31-22.25.39:037][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator1' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.39:037][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator0' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.39:037][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator4' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.39:037][ 65]LogEnum: Warning: Enum name collision: 'E_BossDebuffs::NewEnumerator2' is in both '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs.E_BossDebuffs' and '/Game/BossAIToolkit/Blueprints/Enums/E_BossDebuffs_MOVEDFORMIGRATION_67.E_BossDebuffs'
+[2023.01.31-22.25.39:489][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:489][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:489][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:489][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:595][ 65]LogNavigation: Warning: RecastNavMesh /Game/BossAIToolkit/Maps/ShieldBoss_Map.ShieldBoss_Map:PersistentLevel.RecastNavMesh-Default: ARecastNavMesh: Nav mesh version 13 < Min compatible 20. Nav mesh needs to be rebuilt. 
+
+[2023.01.31-22.25.39:781][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:781][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:781][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoRoom_Enum_MOVEDFORMIGRATION_192.BP_DemoRoom_Enum'
+[2023.01.31-22.25.39:789][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.713502 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:790][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 0.533824 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:791][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:794][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:ShadowMapTexture2D_2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:798][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:798][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:799][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:800][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShieldBoss_Map_BuiltData.ShieldBoss_Map_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.39:824][ 65]LogSkeletalMesh: Display: OnRegister[/Game/BossAIToolkit/Demo/Terra/Meshes/SK_Terra.SK_Terra]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.01.31-22.25.39:832][ 65]LogSkeletalMesh: Display: OnRegister[/Game/BossAIToolkit/Demo/Terra/Meshes/SK_Terra.SK_Terra]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.01.31-22.25.39:935][ 65]LogSkeletalMesh: Building Skeletal Mesh SK_Countess...
+[2023.01.31-22.25.39:983][ 65]LogStaticMesh: Display: Building static mesh SM_VertexColor...
+[2023.01.31-22.25.39:989][ 65]LogSkeletalMesh: Building Skeletal Mesh SK_Howitzer_Domed...
+[2023.01.31-22.25.40:037][ 65]LogStaticMesh: Built static mesh [0.05s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_VertexColor.SM_VertexColor
+[2023.01.31-22.25.40:088][ 65]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Rampage) ...
+[2023.01.31-22.25.40:090][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/BossAIToolkit/Demo/Howitzer/Meshes/SK_Howitzer_Domed.SK_Howitzer_Domed
+[2023.01.31-22.25.40:102][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/BossAIToolkit/Demo/Countess/SK_Countess.SK_Countess
+[2023.01.31-22.25.40:282][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/Sevarog/Effects/P_Sevarog_Homescreen_Hammer.P_Sevarog_Homescreen_Hammer:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:283][ 65]LogStaticMesh: Display: Building static mesh SM_MaskedReaper...
+[2023.01.31-22.25.40:293][ 65]LogSkeletalMesh: Building Skeletal Mesh SK_Sevarog...
+[2023.01.31-22.25.40:316][ 65]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/Sevarog/Skins/Tier_1_5/MaskedReaper/Mesh/SM_MaskedReaper.SM_MaskedReaper
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:318][ 65]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BossAIToolkit/Demo/DemoRoom/Blueprints/BP_DemoDisplay_Enum_MOVEDFORMIGRATION_635.BP_DemoDisplay_Enum'
+[2023.01.31-22.25.40:377][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/Overview_Map_BuiltData.Overview_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:408][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Assets/Icons/T_Status_Stun.T_Status_Stun (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:408][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Assets/Icons/FirstPersonCrosshair.FirstPersonCrosshair (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 0.102826 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:409][ 65]LogStaticMesh: Display: Building static mesh SM_TemplateFloor...
+[2023.01.31-22.25.40:410][ 65]LogStaticMesh: Display: Building static mesh SM_1M_Cube...
+[2023.01.31-22.25.40:412][ 65]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Assets/Geometry/Meshes/SM_TemplateFloor.SM_TemplateFloor
+[2023.01.31-22.25.40:417][ 65]LogStaticMesh: Built static mesh [0.01s] /Game/BossAIToolkit/Assets/Geometry/Meshes/SM_1M_Cube.SM_1M_Cube
+[2023.01.31-22.25.40:475][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/BossAIToolkit/Demo/Sevarog/Meshes/SK_Sevarog.SK_Sevarog
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh SM_Plasma_Mesh...
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh SM_Shockwave_Disc...
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh SM_Sphere_256...
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh SM_ExploSpline_02...
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh S_Sphere_FlippedNormals...
+[2023.01.31-22.25.40:489][ 65]LogStaticMesh: Display: Building static mesh SM_Forward_Burst_Splines...
+[2023.01.31-22.25.40:494][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Splines/SM_Forward_Burst_Splines.SM_Forward_Burst_Splines
+[2023.01.31-22.25.40:499][ 65]LogStaticMesh: Display: Building static mesh SM_ExploSpline_01...
+[2023.01.31-22.25.40:500][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Masks/T_Beam_Gradient_02.T_Beam_Gradient_02 (TFO_AutoDXT, 32x1024 x1x1x1) (Required Memory Estimate: 5.22909 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:500][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Masks/T_SmokeTrailCoord1_Mask.T_SmokeTrailCoord1_Mask (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:501][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Sphere_256.SM_Sphere_256
+[2023.01.31-22.25.40:501][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/S_Sphere_FlippedNormals.S_Sphere_FlippedNormals
+[2023.01.31-22.25.40:501][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Smoke/SM_Plasma_Mesh.SM_Plasma_Mesh
+[2023.01.31-22.25.40:501][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/BossAIToolkit/Demo/FX/Meshes/Splines/Smoke/SM_ExploSpline_02.SM_ExploSpline_02
+[2023.01.31-22.25.40:503][ 65]LogStaticMesh: Built static mesh [0.03s] /Game/BossAIToolkit/Demo/FX/Meshes/Shapes/SM_Shockwave_Disc.SM_Shockwave_Disc
+[2023.01.31-22.25.40:503][ 65]LogStaticMesh: Built static mesh [0.00s] /Game/BossAIToolkit/Demo/FX/Meshes/Splines/Smoke/SM_ExploSpline_01.SM_ExploSpline_01
+[2023.01.31-22.25.40:519][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Flares/Org_A/T_LensFlare14.T_LensFlare14 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:524][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Masks/T_WedgeShapeMask.T_WedgeShapeMask (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:529][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Smoke/T_TilingClouds_01.T_TilingClouds_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:533][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Particles/Abilities/BlinkStrike/FX/p_Countess_ReturnBlinkStart.p_Countess_ReturnBlinkStart:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:564][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Coords/T_Turbulence_AdditiveWarp_Linear.T_Turbulence_AdditiveWarp_Linear (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:574][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Energy/Plasma/T_EnergyPlasma_Tile_H_01.T_EnergyPlasma_Tile_H_01 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 169.479147 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:583][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Particles/Abilities/BlinkStrike/FX/p_Countess_BlinkStrikeFlash.p_Countess_BlinkStrikeFlash:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:600][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Tile/Tech/T_Trap_HexMask_Packed.T_Trap_HexMask_Packed (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:610][ 65]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2023.01.31-22.25.40:650][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/BossAIToolkit/Demo/Mannequin/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2023.01.31-22.25.40:770][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Debris/T_Dirt_01_A.T_Dirt_01_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.40:878][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Demo/FX/Textures/Debris/T_Dirt_01_N.T_Dirt_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:615][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/TelegraphBoss_Map_BuiltData.TelegraphBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:619][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/TelegraphBoss_Map_BuiltData.TelegraphBoss_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:619][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/TelegraphBoss_Map_BuiltData.TelegraphBoss_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:622][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/TelegraphBoss_Map_BuiltData.TelegraphBoss_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:623][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/TelegraphBoss_Map_BuiltData.TelegraphBoss_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:666][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:667][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:ShadowMapTexture2D_3 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:667][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:669][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:670][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:673][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:673][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:676][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:678][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/ShooterBoss_Map_BuiltData.ShooterBoss_Map_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:751][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:751][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:754][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:757][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:759][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:762][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MonsterBoss_Map_BuiltData.MonsterBoss_Map_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:823][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MimicBoss_Map_BuiltData.MimicBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:824][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MimicBoss_Map_BuiltData.MimicBoss_Map_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:827][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MimicBoss_Map_BuiltData.MimicBoss_Map_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:827][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MimicBoss_Map_BuiltData.MimicBoss_Map_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:830][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/MimicBoss_Map_BuiltData.MimicBoss_Map_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:834][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/FastBoss_Map_BuiltData.FastBoss_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:835][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/FastBoss_Map_BuiltData.FastBoss_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:836][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/FastBoss_Map_BuiltData.FastBoss_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:880][ 65]LogBlueprint: Warning: [AssetLog] D:\UE4\Projects\BossAIToolkit\Content\BossAIToolkit\Blueprints\Abilities\Other\BP_Ability_Summon.uasset: [Compiler] GetRandomPointInNavigableRadius : Usage of 'GetRandomPointInNavigableRadius' has been deprecated. GetRandomPointInNavigableRadius is deprecated. Use GetRandomLocationInNavigableRadius instead
+[2023.01.31-22.25.41:910][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/FastBoss_Map_BuiltData.FastBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:913][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/FastBoss_Map_BuiltData.FastBoss_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:919][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:919][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:919][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:921][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:923][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:925][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.41:994][ 65]LogTexture: Display: Building textures: /Game/BossAIToolkit/Maps/BossVsBoss_Map_BuiltData.BossVsBoss_Map_BuiltData:NewReflectionComponentTexture075F607342087D2EDDC372B33B059A49 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2023.01.31-22.25.42:003][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.31-22.25.42:055][ 65]LogPackageLocalizationCache: Processed 40 localized package path(s) for 1 prioritized culture(s) in 0.027670 seconds
+[2023.01.31-22.25.42:068][ 65]LogSerialization: UsePackageTrailer: 'true'
+[2023.01.31-22.25.42:090][ 65]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.01.31-22.25.42:121][ 65]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage\SavePackageUtilities.cpp] [Line: 544] 
+Could not write to D:/UE4/Projects/DevilsTrapRPG/Content/BossAIToolkit/Demo/Mannequin/Animations/AM_DodgeRoll.uasset!
+
+
+
+[2023.01.31-22.25.42:121][ 65]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.01.31-22.25.42:134][ 65]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage\SavePackageUtilities.cpp] [Line: 544] 
+Could not write to D:/UE4/Projects/DevilsTrapRPG/Content/BossAIToolkit/Blueprints/Notifies/Notify_Dodge.uasset!
+
+
+
+[2023.01.31-22.25.42:135][ 65]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage\SavePackageUtilities.cpp] [Line: 544] 
+Could not write to D:/UE4/Projects/DevilsTrapRPG/Content/BossAIToolkit/Demo/Mannequin/Animations/DodgeRoll.uasset!
+
+
+
+[2023.01.31-22.25.42:137][ 65]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage\SavePackageUtilities.cpp] [Line: 544] 
+Could not write to D:/UE4/Projects/DevilsTrapRPG/Content/BossAIToolkit/Demo/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset!
+
+
+
